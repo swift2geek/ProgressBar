@@ -24,6 +24,4 @@ class MainVC: UIViewController {
         progressBarView.progress = CGFloat(slider.value)
     }
 
-
 }
-
